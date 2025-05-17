@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SEAT_LEON",
+    "name": "Seat Leon - HH-AK 3151",
+    "imageUrl": "https://maestro010.github.io/akquicar-assets/fahrzeuge/seat_leon.png",
+    "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/seat_leon.pdf"
+  },
+  {
+    "id": "ID3",
+    "name": "VW ID.3 - HH-JT 403E",
+    "imageUrl": "https://maestro010.github.io/akquicar-assets/fahrzeuge/vw_id3.png",
+    "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/vw_id3.pdf"
+  },
+  {
+    "id": "OPEL_COMBO",
+    "name": "Opel Combo - HH-AK 1522",
+    "imageUrl": "https://maestro010.github.io/akquicar-assets/fahrzeuge/opel_combo.png",
+    "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/opel_combo.pdf"
+  }
+]
