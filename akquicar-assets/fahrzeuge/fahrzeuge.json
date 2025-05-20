@@ -3,21 +3,24 @@
     "id": "SEAT_LEON",
     "name": "Seat Leon - HH-AK 3151",
     "imageUrl": "https://raw.githubusercontent.com/Maestro010/akquicar-assets/main/akquicar-assets/fahrzeuge/seat_leon.jpg",
-    "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/seat_leon.pdf",
     "schadenMarkierungen": []
   },
   {
     "id": "ID3",
     "name": "VW ID.3 - HH-JT 403E",
     "imageUrl": "https://raw.githubusercontent.com/Maestro010/akquicar-assets/main/akquicar-assets/fahrzeuge/vw_id_3.jpg",
-    "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/vw_id3.pdf",
     "schadenMarkierungen": []
   },
   {
     "id": "OPEL_COMBO",
     "name": "Opel Combo - HH-AK 1522",
     "imageUrl": "https://raw.githubusercontent.com/Maestro010/akquicar-assets/main/akquicar-assets/fahrzeuge/opel_combo.jpg",
-    "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/opel_combo.pdf",
+    "schadenMarkierungen": []
+  },
+  {
+    "id": "MERCEDES_CITAN",
+    "name": "Mercedes Citan - HH-AK XXXX",
+    "imageUrl": "https://raw.githubusercontent.com/Maestro010/akquicar-assets/main/akquicar-assets/fahrzeuge/opel_combo.jpg",
     "schadenMarkierungen": []
   }
 ]
