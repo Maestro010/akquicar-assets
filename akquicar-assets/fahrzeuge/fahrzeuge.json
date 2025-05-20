@@ -2,7 +2,7 @@
   {
     "id": "SEAT_LEON",
     "name": "Seat Leon - HH-AK 3151",
-    "imageUrl": "https://maestro010.github.io/akquicar-assets/fahrzeuge/seat_leon.png",
+    "imageUrl": "https://raw.githubusercontent.com/Maestro010/akquicar-assets/main/akquicar-assets/fahrzeuge/seat_leon.jpg",
     "uvvUrl": "https://maestro010.github.io/akquicar-assets/uvv/seat_leon.pdf",
     "schadenMarkierungen": [
       { "x": 0.1, "y": 0.2 },
